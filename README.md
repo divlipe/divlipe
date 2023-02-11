@@ -13,3 +13,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divlipe&show_icons=true&theme=radical&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divlipe&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/divlipe/divlipe/blob/output/github-contribution-grid-snake.svg)
