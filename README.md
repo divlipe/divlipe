@@ -1,4 +1,5 @@
-### 💻 Developer Back End JS
+
+## 💻 Developer Back End JS
 
 ⌛ Studying:
 
@@ -11,9 +12,9 @@
 
 ##
 
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=divlipe&show_icons=true&theme=radical&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divlipe&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=divlipe&bg_color=0d1117&color=FD418D&line=b13583&point=A8FDF6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=divlipe&show_icons=true&count_private=true&hide_border=true&title_color=FD418D&icon_color=E9CB43&text_color=A8FDF6&bg_color=0d1117" alt="Felipe Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divlipe&layout=compact&hide_border=true&title_color=FD418D&text_color=A8FDF6&bg_color=0d1117" />
 </div>
