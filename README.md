@@ -17,4 +17,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divlipe&layout=compact&hide_border=true&title_color=FD418D&text_color=A8FDF6&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/kitsunebishi/kitsunebishi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/divlipe/divlipe/blob/output/github-contribution-grid-snake.svg)
