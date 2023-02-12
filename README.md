@@ -17,5 +17,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divlipe&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-![snake gif](https://github.com/divlipe/blob/output/github-contribution-grid-snake.svg)
