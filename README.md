@@ -1,7 +1,11 @@
 
 ## 💻 Developer Back End JS
 
+<div align="center">
 ⌛ Studying:
+</div>
+
+<br>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="lipe-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
