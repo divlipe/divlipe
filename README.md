@@ -1,21 +1,13 @@
+# 💫 Sobre mim:
+Sempre disposto a aprender coisas novas e desafiadoras para me desenvolver ainda mais como programador.
 
-## 💻 Developer Back End Java
 
-<div align="center">
-⌛ Studying:
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=divlipe&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=divlipe&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divlipe&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-
-<div style="display: inline_block" align="center">
-  <img align="center" alt="lipe-jar" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="lipe-csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="lipe-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
-
-##
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=divlipe&show_icons=true&count_private=true&hide_border=true&title_color=FD418D&icon_color=E9CB43&text_color=A8FDF6&bg_color=0d1117" alt="Felipe Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divlipe&layout=compact&hide_border=true&title_color=FD418D&text_color=A8FDF6&bg_color=0d1117" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=divlipe&icon=0&color=12)](https://visitcount.itsvg.in)
